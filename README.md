@@ -1,7 +1,8 @@
-Can Use it!!!!!!
+Can not Use it!!!!!!
 Maybe need some debug.
 
->>> import d3py
+>>> import d3py  
+
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
   File "C:\Anaconda3\envs\p37\lib\site-packages\d3py-0.2.3-py3.7.egg\d3py\__init__.py", line 1, in <module>
